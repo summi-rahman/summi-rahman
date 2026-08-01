@@ -1,95 +1,74 @@
 # Hi there, I'm Sumaiya Rahman 👋
 
-## About Me
+## 👩‍💻 About Me
 
-I'm a **Risk Analytics & Engineering Associate at Goldman Sachs** with experience in **Data Analytics, Machine Learning, and Financial Risk Analytics**.
+I'm a **Risk Analytics & Engineering Associate at Goldman Sachs** with a passion for building data-driven solutions using **Python, SQL, and Machine Learning**.
 
-I enjoy building scalable data pipelines, machine learning models, and analytics solutions that transform data into actionable insights.
-
----
-
-## 💼 Current Role
-
-**Risk Analytics & Engineering Associate**  
-Goldman Sachs | Bengaluru, India
-
-- Developed Python-based automation for regulatory risk reporting
-- Built analytics dashboards using Tableau and SQL
-- Automated reporting workflows using Python and Alteryx
-- Worked with large-scale financial datasets and data quality controls
+I enjoy solving real-world business problems through data analytics, scalable data pipelines, predictive modeling, and interactive dashboards. My interests lie at the intersection of **Data Science, Financial Analytics, Quantitative Research, and Data Engineering**.
 
 ---
 
-## 🎓 Education
+## 💼 What I Work With
 
-- **M.Tech**
-  National Institute of Technology Karnataka (NITK), Surathkal
-
-- **B.Tech**
-  Aligarh Muslim University (AMU)
+- 📊 Data Analytics & Business Intelligence
+- 🤖 Machine Learning & Predictive Modeling
+- 🏦 Financial Risk Analytics
+- ⚡ Data Pipelines & Automation
+- 📈 Quantitative Research
+- 🌐 Backend APIs & Dashboard Development
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
-
+### Programming Languages
 - Python
 - SQL
 
-**Libraries**
-
+### Data Science & Machine Learning
 - Pandas
 - NumPy
 - Scikit-learn
 - Matplotlib
 
-**Data**
-
+### Databases
 - PostgreSQL
 - Snowflake
 
-**Visualization**
-
+### Visualization
 - Tableau
 - Streamlit
 
-**Backend**
-
+### Backend & APIs
 - FastAPI
 - REST APIs
 
-**Tools**
-
+### Tools
 - Git
 - Docker
 - Alteryx
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 📈 Financial News Data Pipeline
-
-End-to-end pipeline for collecting, processing, and analyzing financial news using sentiment analysis, Kafka, Spark Streaming, PostgreSQL, and Streamlit.
+Built an end-to-end financial news analytics pipeline using **Python, Kafka, Spark Streaming, PostgreSQL, FinBERT, and Streamlit** to ingest, process, analyze sentiment, and visualize financial news in real time.
 
 ---
 
 ### 💹 Quant Research Platform
-
-A platform for quantitative finance research, portfolio analytics, and financial data analysis using Python.
+Developed a modular quantitative research platform featuring **strategy development, backtesting, FastAPI services, and an interactive Streamlit dashboard** for portfolio and trading strategy evaluation.
 
 ---
 
 ### 💼 BlackRock Backend Challenge
-
-Retirement micro-savings API with dynamic investment strategy comparison, rule engine, Docker support, and automated testing.
+Designed a backend system for retirement micro-savings with **dynamic investment strategy comparison, rule-based recommendations, Docker support, automated testing, and REST APIs**.
 
 ---
 
 ### 🏠 House Price Prediction
-
-Machine Learning project using the California Housing dataset including EDA, feature engineering, model building, and evaluation.
+Implemented an end-to-end machine learning workflow using the California Housing dataset, covering **EDA, feature engineering, model development, evaluation, and prediction**.
 
 ---
 
@@ -97,20 +76,29 @@ Machine Learning project using the California Housing dataset including EDA, fea
 
 - Advanced Machine Learning
 - Data Engineering
-- Quantitative Finance
 - MLOps
+- Quantitative Finance
+- Cloud Technologies (AWS)
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: sumirehman1998@gmail.com
-
-💼 LinkedIn:
+💼 **LinkedIn**  
 https://www.linkedin.com/in/sumaiyarahman98/
 
-💻 HackerRank:
+💻 **GitHub**  
+https://github.com/summi-rahman
+
+🧠 **LeetCode**  
+https://leetcode.com/u/Summi_1/
+
+🏆 **HackerRank**  
 https://www.hackerrank.com/profile/sumi_inshu97
 
-🧠 LeetCode:
-https://leetcode.com/u/Summi_1/
+📧 **Email**  
+sumirehman1998@gmail.com
+
+---
+
+⭐ *Thanks for visiting my GitHub! Feel free to explore my repositories, and don't hesitate to connect if you'd like to collaborate on data science, machine learning, analytics, or quantitative finance projects.*
